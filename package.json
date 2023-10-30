@@ -1,6 +1,6 @@
 {
     "name": "@lottojs/secure-headers",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "A Node.js middleware for enhancing security by adding secure HTTP headers. Mitigate various web vulnerabilities.",
     "author": "Pedro Harbs <harbspj@gmail.com>",
     "license": "MIT",
